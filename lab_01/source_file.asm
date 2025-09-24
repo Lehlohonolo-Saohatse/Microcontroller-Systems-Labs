@@ -12,11 +12,11 @@
 ;                                                                     *
 ;**********************************************************************
 ;                                                                     *
-;    Filename:        xxx.asm                                         *
+;    Filename:        lab01.asm                                         *
 ;    Date:                                                            *
 ;    File Version:                                                    *
 ;                                                                     *
-;    Author:                                                          *
+;    Author:          Lehlohonolo Saohatse                                                *
 ;    Company:                                                         *
 ;                                                                     *
 ;                                                                     *
@@ -74,6 +74,7 @@ MAIN_PROGRAM    CODE
 start:
 
 ; remaining code goes here
+
 
 	cblock 0x0E
         COUNT
