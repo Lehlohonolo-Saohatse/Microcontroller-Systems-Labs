@@ -8,7 +8,7 @@ Welcome to **Lab 1** of **ELYM 328 – Introduction to Microcontroller Systems**
 Give a tutorial on software development for microcontrollers using the PIC microcontroller family and PIC16F84 as a case study.
 
 ## 📋 Procedure
-Refer to Chapter 2 of the MPLAB IDE Quick Start Guide. Key steps include:
+Refer to the Report. Key steps include:
 - Running MPLAB IDE and selecting the PIC16F84A device.
 - Creating a project using the Project Wizard and setting up language tools.
 - Adding files (e.g., assembly template and linker script).
@@ -16,7 +16,7 @@ Refer to Chapter 2 of the MPLAB IDE Quick Start Guide. Key steps include:
 - Creating and testing code with the simulator.
 
 ## 📊 Results
-- Initial build failed due to errors (see Attachment 2 for details).
+- Initial build failed due to errors.
 - After fixes, the program built successfully, generating .hex and .cod files.
 - Simulation showed PORTB incrementing in an infinite loop, with delay for visibility.
 
@@ -40,6 +40,6 @@ See `source_file.asm` for the debugged program (Attachment 3).
 ## 📝 Notes
 - Report format: Title, Aims/Objectives, Introduction, Equipment, Procedure, Results, Discussion, Conclusion.
 - Use screenshots of simulator outputs for verification.
-- Student: L Saohatse (37569422), Due Date: 02/09/2025.
+- Student: L Saohatse, Due Date: 02/09/2025.
 
 *Completed for ELYM 328 – Introduction to Microcontroller Systems, September 24, 2025.*
