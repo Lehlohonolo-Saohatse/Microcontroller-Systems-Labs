@@ -30,9 +30,9 @@ Refer to the Report. Key steps include:
 5. **What the program does**: Configures PORTB as output, initializes a counter to zero, increments it in a loop, displays on PORTB, and uses a nested delay subroutine for visibility, running infinitely.
 
 ## 💻 Assembly Code
-See `source_file.asm` for the debugged program (Attachment 3).
+See `source_file.asm` for the debugged program.
 
-## 📄 Attachments
+## 📄 Attachments (On the Report)
 - Attachment 1: Raw program before debugging.
 - Attachment 2: Error messages from initial build.
 - Attachment 3: Debugged program.
