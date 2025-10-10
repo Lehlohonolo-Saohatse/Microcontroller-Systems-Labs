@@ -1,14 +1,11 @@
-# 🔌 ELYM 328 – Introduction to Microcontroller Systems Projects
+# 🔌Microcontroller Systems Projects
 
 ![MPLAB](https://img.shields.io/badge/MPLAB-IDE-blue?logo=microchip&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-Language-black?logo=code&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-A collection of labs and projects completed for the  
-**ELYM 328 – Introduction to Microcontroller Systems** module at North-West University, South Africa.
-
-This repository explores embedded systems concepts using the PIC16F84 microcontroller through **assembly language** programming, simulations in MPLAB IDE, and hardware interfacing, aligned with topics from computer architecture to PIC programming.
+A collection of labs and projects completed for the **Microcontroller Systems** module at North-West University, South Africa. This repository explores embedded systems concepts using the PIC16F84 microcontroller through **assembly language** programming, simulations in MPLAB IDE, and hardware interfacing, aligned with topics from computer architecture to PIC programming.
 
 ## 📂 Repository Structure
 ```plaintext
