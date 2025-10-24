@@ -70,7 +70,7 @@ microcontroller-systems-projects/
 
 For the final lab and practical exercises, the **Easypic v7 development board** was used to program and test PIC16F84 microcontroller circuits.
 
-![Easypic v7](https://upload.wikimedia.org/wikipedia/commons/0/05/EasyPic_v7.jpg)
+![Easypic v7](/EasyPic_v7.jpg)
 
 ## 📚 Module Outline Alignment
 
